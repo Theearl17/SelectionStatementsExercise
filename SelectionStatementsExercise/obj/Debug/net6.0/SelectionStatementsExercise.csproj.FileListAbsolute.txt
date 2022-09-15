@@ -1,0 +1,15 @@
+C:\Users\Earl Starks\Desktop\repos\SelectionStatementsExercise\SelectionStatementsExercise\SelectionStatementsExercise\bin\Debug\net6.0\SelectionStatementsExercise.exe
+C:\Users\Earl Starks\Desktop\repos\SelectionStatementsExercise\SelectionStatementsExercise\SelectionStatementsExercise\bin\Debug\net6.0\SelectionStatementsExercise.deps.json
+C:\Users\Earl Starks\Desktop\repos\SelectionStatementsExercise\SelectionStatementsExercise\SelectionStatementsExercise\bin\Debug\net6.0\SelectionStatementsExercise.runtimeconfig.json
+C:\Users\Earl Starks\Desktop\repos\SelectionStatementsExercise\SelectionStatementsExercise\SelectionStatementsExercise\bin\Debug\net6.0\SelectionStatementsExercise.dll
+C:\Users\Earl Starks\Desktop\repos\SelectionStatementsExercise\SelectionStatementsExercise\SelectionStatementsExercise\bin\Debug\net6.0\SelectionStatementsExercise.pdb
+C:\Users\Earl Starks\Desktop\repos\SelectionStatementsExercise\SelectionStatementsExercise\SelectionStatementsExercise\obj\Debug\net6.0\SelectionStatementsExercise.csproj.AssemblyReference.cache
+C:\Users\Earl Starks\Desktop\repos\SelectionStatementsExercise\SelectionStatementsExercise\SelectionStatementsExercise\obj\Debug\net6.0\SelectionStatementsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Earl Starks\Desktop\repos\SelectionStatementsExercise\SelectionStatementsExercise\SelectionStatementsExercise\obj\Debug\net6.0\SelectionStatementsExercise.AssemblyInfoInputs.cache
+C:\Users\Earl Starks\Desktop\repos\SelectionStatementsExercise\SelectionStatementsExercise\SelectionStatementsExercise\obj\Debug\net6.0\SelectionStatementsExercise.AssemblyInfo.cs
+C:\Users\Earl Starks\Desktop\repos\SelectionStatementsExercise\SelectionStatementsExercise\SelectionStatementsExercise\obj\Debug\net6.0\SelectionStatementsExercise.csproj.CoreCompileInputs.cache
+C:\Users\Earl Starks\Desktop\repos\SelectionStatementsExercise\SelectionStatementsExercise\SelectionStatementsExercise\obj\Debug\net6.0\SelectionStatementsExercise.dll
+C:\Users\Earl Starks\Desktop\repos\SelectionStatementsExercise\SelectionStatementsExercise\SelectionStatementsExercise\obj\Debug\net6.0\refint\SelectionStatementsExercise.dll
+C:\Users\Earl Starks\Desktop\repos\SelectionStatementsExercise\SelectionStatementsExercise\SelectionStatementsExercise\obj\Debug\net6.0\SelectionStatementsExercise.pdb
+C:\Users\Earl Starks\Desktop\repos\SelectionStatementsExercise\SelectionStatementsExercise\SelectionStatementsExercise\obj\Debug\net6.0\SelectionStatementsExercise.genruntimeconfig.cache
+C:\Users\Earl Starks\Desktop\repos\SelectionStatementsExercise\SelectionStatementsExercise\SelectionStatementsExercise\obj\Debug\net6.0\ref\SelectionStatementsExercise.dll
